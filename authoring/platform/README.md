@@ -1,7 +1,7 @@
 # Sitecore Platform Project
 
 This Visual Studio / MSBuild project is used to deploy code and configuration
-to the main Sitecore platform roles, known as Content Management and
+to the main Sitecore platform roles, known as Content Management and 
 Content Delivery. (This sample uses the XP0 container topology and thus only has a
 Standalone `cm`.)
 
