@@ -30,9 +30,6 @@
           },
           "populateSchema": {
             "indexNames": []
-          },
-          "reindex": {
-            "indexNames": []
           }
         }
     }
